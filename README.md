@@ -1,4 +1,6 @@
-![MasterHead](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)
+<p align="center">
+  <img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
+</p>
 <h1 align="center">Hello 👋, I'm Ankan Halder</h1>
 <h3 align="center">A hard working web developer from Bangladesh</h3>
 
