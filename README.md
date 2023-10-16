@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Ankan Halder</h1>
-<h3 align="center">"Building Tomorrow's Web Today. Your Vision, My Code.</h3>
+<h3 align="center">Building Tomorrow's Web Today. Your Vision, My Code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan112&label=Profile%20views&color=0e75b6&style=flat" alt="ankan112" /> </p>
 
