@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankan112" alt="ankan112" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [ankanhalderbd.web.app](https://ankanhalderbd.web.app/)
 
